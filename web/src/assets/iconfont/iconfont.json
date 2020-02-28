@@ -1,0 +1,93 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1608363",
+      "name": "menu",
+      "font_class": "menu",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "2320678",
+      "name": "back",
+      "font_class": "back",
+      "unicode": "e70a",
+      "unicode_decimal": 59146
+    },
+    {
+      "icon_id": "5331449",
+      "name": "video",
+      "font_class": "video",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "6450855",
+      "name": "menu",
+      "font_class": "menu1",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "6654507",
+      "name": "card-hero",
+      "font_class": "card-hero",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "9761420",
+      "name": "image",
+      "font_class": "image",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "10337412",
+      "name": "video",
+      "font_class": "video1",
+      "unicode": "e761",
+      "unicode_decimal": 59233
+    },
+    {
+      "icon_id": "12785599",
+      "name": "refresh",
+      "font_class": "refresh",
+      "unicode": "e81b",
+      "unicode_decimal": 59419
+    },
+    {
+      "icon_id": "12785603",
+      "name": "moments",
+      "font_class": "moments",
+      "unicode": "e81c",
+      "unicode_decimal": 59420
+    },
+    {
+      "icon_id": "12785605",
+      "name": "time",
+      "font_class": "time",
+      "unicode": "e81d",
+      "unicode_decimal": 59421
+    },
+    {
+      "icon_id": "12785606",
+      "name": "special",
+      "font_class": "special",
+      "unicode": "e81e",
+      "unicode_decimal": 59422
+    },
+    {
+      "icon_id": "12785611",
+      "name": "share",
+      "font_class": "share",
+      "unicode": "e81f",
+      "unicode_decimal": 59423
+    }
+  ]
+}
